@@ -5,5 +5,10 @@
 </div>
 <div class="Body">
   <p>Software developer originally from Venezuela and currently residing in Hollywood, Florida, passionate about programming and technology. Always seeking new challenges to improve my skills as a developer and create innovative and efficient solutions through programming. Committed to continuous learning and developing scalable, high-quality solutions.</p>
+  <ul>
+    <li> 💻 I`m open to work. </li>
+    <li> 💻 I`m currently learning Next.js. </li>
+    <li> 💻 2023 Goal: Found my firts job as a Developer. </li>
+    <li> 💻 Fun Fac: I talk to much  
 </div>
 </div>
