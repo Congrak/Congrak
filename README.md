@@ -20,6 +20,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Boostrap" width="40" height="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40" fill="#36BCF7FF"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="SQL" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" alt="Redis" width="40" height="40" />&nbsp
   </div>
 </div>
