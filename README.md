@@ -9,6 +9,6 @@
     <li> 💻 I`m open to work. </li>
     <li> 💻 I`m currently learning Next.js. </li>
     <li> 💻 2023 Goal: Found my firts job as a Developer. </li>
-    <li> 💻 Fun Fac: I talk to much  
+    <li> 💻 Fun Fac: <strong>"When I am nervous, I talk a lot"</strong> </li>
 </div>
 </div>
