@@ -31,6 +31,6 @@
       <img align="center" src="https://streak-stats.demolab.com?user=Congrak&theme=github-dark-blue&hide_border=true" alt="stats" height="300"/>
     </div>
     <div class="conect">
-      <p><strong>Don`t forget connect with me =></strong><a href="https://www.linkedin.com/in/rodrigo-celis-zamora" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a></p>
+      <p><strong>Don`t forget connect with me</strong></p><a href="https://www.linkedin.com/in/rodrigo-celis-zamora" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
   </div>
 </div>
