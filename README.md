@@ -20,6 +20,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Boostrap" width="40" height="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40" />&nbsp
   </div>
 </div>
