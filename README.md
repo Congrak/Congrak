@@ -11,6 +11,6 @@
     <li> 💻 2023 Goal: <strong>Found my firts job as a Developer.</strong> </li>
     <li> 💻 Fun Fac: <strong>"When I am nervous, I talk a lot"</strong> </li>
 </div>
-  <h3 align="center" color="#36BCF7FF">Skills</h3>
+  <h3 align="center" style="color:#36BCF7FF;">Skills</h3>
   
 </div>
