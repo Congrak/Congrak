@@ -27,6 +27,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />&nbsp
       <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" alt="Redis" width="40" height="40" />&nbsp
     </div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Congrak" />
+    <img src="https://streak-stats.demolab.com?user=Congrak&theme=github-dark-blue&hide_border=true"
   </div>
 </div>
