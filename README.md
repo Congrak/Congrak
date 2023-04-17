@@ -18,8 +18,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="React" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Boostrap" width="40" height="40" />&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svgs/javascript/javascript-plain.svg" alt="Next.js" width="40" height="40" />&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />&nbsp
   </div>
 </div>
