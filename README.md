@@ -31,6 +31,6 @@
       <img align="center" src="https://streak-stats.demolab.com?user=Congrak&theme=github-dark-blue&hide_border=true" alt="stats" height="300"/>
     </div>
     <div class="conect">
-      <a href="https://www.linkedin.com/in/rodrigo-celis-zamora" />
+      <a href="https://www.linkedin.com/in/rodrigo-celis-zamora">prueba</a>
   </div>
 </div>
