@@ -9,8 +9,8 @@
     <ul>
       <li> 💻 <strong>I`m open to work.</strong> </li>
       <li> 💻 I`m currently learning <strong>Next.js.</strong> </li>
-      <li> 💻 2023 Goal: <strong>Found my firts job as a Developer.</strong> </li>
-      <li> 💻 Fun Fac: <strong>"When I am nervous, I talk a lot"</strong> </li>
+      <li> 💻 2023 Goal: <strong>Find my firts job as a Developer.</strong> </li>
+      <li> 💻 Fun Fact: <strong>"When I am nervous, I talk a lot"</strong> </li>
    </div>
 </div>
   <div class="Skills">
