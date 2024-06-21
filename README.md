@@ -6,12 +6,7 @@
 <div class="Body">
   <div class="About">
     <p>Software developer originally from Venezuela and currently residing in Hollywood, Florida, passionate about programming and technology. Always seeking new challenges to improve my skills as a developer and create innovative and efficient solutions through programming. Committed to continuous learning and developing scalable, high-quality solutions.</p>
-    <ul>
-      <li> 💻 <strong>I`m open to work.</strong> </li>
-      <li> 💻 I`m currently learning <strong>Next.js.</strong> ✅ </li>
-      <li> 💻 2023 Goal: <strong>Find my firts job as a Developer.</strong> ✅ </li>
-      <li> 💻 Fun Fact: <strong>"When I am nervous, I talk a lot"</strong> </li>
-   </div>
+   
 </div>
   <div class="Skills">
     <h3 align="center">Skills</h3>
